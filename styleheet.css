@@ -19,6 +19,8 @@ background-image: url(./images/ian-dooley-DuBNA1QMpPA-unsplash.jpg);
 
 header #inv {
 text-align: center;
+    margin: auto;
+    padding: 10px;
 }
 li{
     list-style: none;
