@@ -17,9 +17,9 @@ background-image: url(./images/ian-dooley-DuBNA1QMpPA-unsplash.jpg);
     font-family: 'Josefin Slab', serif; 
 }
 
-#invisible {
+header #inv {
     display: no display;
-    color: rgba(0, 0, 255, 0.0);
+    color: rgba(0, 0, 255, 0);
 }
 li{
     list-style: none;
