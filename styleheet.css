@@ -152,6 +152,12 @@ section#banner{
 
 }
 
+.purple{
+    background-color: rgba(138, 43, 226, 0.3);
+    margin: 15px;
+    padding: 30px;
+    border-radius: 10px;
+}
 
 #banner h2{
     font-size: 2.8rem;
