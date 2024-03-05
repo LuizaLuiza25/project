@@ -41,6 +41,12 @@ header{
 
 }
 
+.inv{
+    text-align: center;
+    margin: 10px;
+    padding: 15px;
+}
+
 .navbar{
     
     width: 100%;
@@ -53,8 +59,13 @@ header{
 }
 
 .navbar .logo a {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
+    transition: scale .2s ease;
+}
+
+.navbar .logo a:hover{
+    scale: 1.05;
 }
 
 .navbar .links{
